@@ -21,9 +21,8 @@ The dataset used is "Plant Village - Potato Disease Classification," available o
 - ![cf8bc733-0f66-4e66-a455-b4db3a49ad6f](https://github.com/user-attachments/assets/c7a2c368-b078-44cf-b691-49076b4c4721)
 
 
-
 🎨**Technologies Used**  
 - Tensorflow
 - CNN
-- FastAPI
-- React Native
+- Android Studio
+- Google Cloud Platform
